@@ -123,7 +123,7 @@ input[type="number"]{
 
     .container{
         height: 550px ;
-        width: 355px;
+        width: 340px;
         display: inline-block;
         background: hsl(0, 0%, 100%);
         border-left: 5px;
